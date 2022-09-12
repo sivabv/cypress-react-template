@@ -4,7 +4,7 @@ In this blog post we will see how to set up Cypress Component Testing in a new R
 
 You can get the source code for the example used in the blog post [here](https://github.com/lmiller1990/cypress-react-template).
 
-## Creating a new React Project
+## Creating a new React Project- test
 
 Create a new React project to get started. Optionally add TypeScript - I'll be using it in this example.
 
